@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - using printf function to print a line
- * Return: 0 (Successful)
+ * Return:0 (Successful)
  */
 int main(void)
 {
